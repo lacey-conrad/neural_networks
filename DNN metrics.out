@@ -1,0 +1,12 @@
+\BOOKMARK [1][-]{section.1}{To Do}{}% 1
+\BOOKMARK [1][-]{section.2}{Commonly used metrics}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Confusion Matrix}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{IoU}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Precision}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.4}{Recall}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.5}{F1 Score}{section.2}% 7
+\BOOKMARK [2][-]{subsection.2.6}{Average precision \(AP\)}{section.2}% 8
+\BOOKMARK [2][-]{subsection.2.7}{Mean average precision \(mAP\)}{section.2}% 9
+\BOOKMARK [1][-]{section.3}{How to decide which metrics to use}{}% 10
+\BOOKMARK [1][-]{section.4}{Helpful research papers and other references}{}% 11
+\BOOKMARK [1][-]{section.5}{References}{}% 12
